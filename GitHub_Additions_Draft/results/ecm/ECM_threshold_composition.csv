@@ -1,0 +1,371 @@
+sample,timepoint,state,score_group,n,rule
+6h_rep1,6H_DPI,Homeostatic 1,High,25,global_median
+6h_rep1,6H_DPI,Homeostatic 1,Low,15,global_median
+6h_rep1,6H_DPI,Homeostatic 2,High,78,global_median
+6h_rep1,6H_DPI,Homeostatic 2,Low,180,global_median
+6h_rep1,6H_DPI,DAM,Low,8,global_median
+6h_rep1,6H_DPI,Pro-inflammatory,High,83,global_median
+6h_rep1,6H_DPI,Pro-inflammatory,Low,113,global_median
+6h_rep2,6H_DPI,Homeostatic 1,Low,1,global_median
+6h_rep2,6H_DPI,Homeostatic 2,High,16,global_median
+6h_rep2,6H_DPI,Homeostatic 2,Low,139,global_median
+6h_rep2,6H_DPI,DAM,High,1,global_median
+6h_rep2,6H_DPI,DAM,Low,2,global_median
+6h_rep2,6H_DPI,Pro-inflammatory,Low,7,global_median
+6h_rep3,6H_DPI,Homeostatic 1,High,1,global_median
+6h_rep3,6H_DPI,Homeostatic 1,Low,3,global_median
+6h_rep3,6H_DPI,Homeostatic 2,High,63,global_median
+6h_rep3,6H_DPI,Homeostatic 2,Low,119,global_median
+6h_rep3,6H_DPI,DAM,High,2,global_median
+6h_rep3,6H_DPI,DAM,Low,3,global_median
+6h_rep3,6H_DPI,Pro-inflammatory,High,37,global_median
+6h_rep3,6H_DPI,Pro-inflammatory,Low,36,global_median
+Ctrl_rep1,Control,Homeostatic 1,High,11,global_median
+Ctrl_rep1,Control,Homeostatic 1,Low,11,global_median
+Ctrl_rep1,Control,Homeostatic 2,High,80,global_median
+Ctrl_rep1,Control,Homeostatic 2,Low,267,global_median
+Ctrl_rep1,Control,DAM,Low,1,global_median
+Ctrl_rep2,Control,Homeostatic 1,Low,2,global_median
+Ctrl_rep2,Control,Homeostatic 2,High,19,global_median
+Ctrl_rep2,Control,Homeostatic 2,Low,136,global_median
+Ctrl_rep2,Control,DAM,High,1,global_median
+Ctrl_rep2,Control,DAM,Low,3,global_median
+Ctrl_rep3,Control,Homeostatic 1,High,26,global_median
+Ctrl_rep3,Control,Homeostatic 1,Low,14,global_median
+Ctrl_rep3,Control,Homeostatic 2,High,24,global_median
+Ctrl_rep3,Control,Homeostatic 2,Low,77,global_median
+Ctrl_rep3,Control,DAM,Low,2,global_median
+D2_rep1,2D_DPI,Homeostatic 1,High,200,global_median
+D2_rep1,2D_DPI,Homeostatic 1,Low,123,global_median
+D2_rep1,2D_DPI,Homeostatic 2,High,36,global_median
+D2_rep1,2D_DPI,Homeostatic 2,Low,51,global_median
+D2_rep1,2D_DPI,DAM,High,5,global_median
+D2_rep1,2D_DPI,DAM,Low,22,global_median
+D2_rep2,2D_DPI,Homeostatic 1,High,251,global_median
+D2_rep2,2D_DPI,Homeostatic 1,Low,99,global_median
+D2_rep2,2D_DPI,Homeostatic 2,High,43,global_median
+D2_rep2,2D_DPI,Homeostatic 2,Low,37,global_median
+D2_rep2,2D_DPI,DAM,High,9,global_median
+D2_rep2,2D_DPI,DAM,Low,15,global_median
+D2_rep2,2D_DPI,Pro-inflammatory,High,1,global_median
+D2_rep3,2D_DPI,Homeostatic 1,High,325,global_median
+D2_rep3,2D_DPI,Homeostatic 1,Low,127,global_median
+D2_rep3,2D_DPI,Homeostatic 2,High,25,global_median
+D2_rep3,2D_DPI,Homeostatic 2,Low,47,global_median
+D2_rep3,2D_DPI,DAM,High,55,global_median
+D2_rep3,2D_DPI,DAM,Low,65,global_median
+D2_rep3,2D_DPI,Pro-inflammatory,Low,2,global_median
+D4_rep1,4D_DPI,Homeostatic 1,High,333,global_median
+D4_rep1,4D_DPI,Homeostatic 1,Low,114,global_median
+D4_rep1,4D_DPI,Homeostatic 2,High,26,global_median
+D4_rep1,4D_DPI,Homeostatic 2,Low,33,global_median
+D4_rep1,4D_DPI,DAM,High,23,global_median
+D4_rep1,4D_DPI,DAM,Low,36,global_median
+D4_rep2,4D_DPI,Homeostatic 1,High,253,global_median
+D4_rep2,4D_DPI,Homeostatic 1,Low,127,global_median
+D4_rep2,4D_DPI,Homeostatic 2,High,72,global_median
+D4_rep2,4D_DPI,Homeostatic 2,Low,110,global_median
+D4_rep2,4D_DPI,DAM,High,7,global_median
+D4_rep2,4D_DPI,DAM,Low,4,global_median
+D4_rep3,4D_DPI,Homeostatic 1,High,231,global_median
+D4_rep3,4D_DPI,Homeostatic 1,Low,126,global_median
+D4_rep3,4D_DPI,Homeostatic 2,High,139,global_median
+D4_rep3,4D_DPI,Homeostatic 2,Low,154,global_median
+D4_rep3,4D_DPI,DAM,High,59,global_median
+D4_rep3,4D_DPI,DAM,Low,128,global_median
+D4_rep3,4D_DPI,Pro-inflammatory,Low,1,global_median
+6h_rep1,6H_DPI,Homeostatic 1,High,28,within_library_median
+6h_rep1,6H_DPI,Homeostatic 1,Low,12,within_library_median
+6h_rep1,6H_DPI,Homeostatic 2,High,109,within_library_median
+6h_rep1,6H_DPI,Homeostatic 2,Low,149,within_library_median
+6h_rep1,6H_DPI,DAM,High,1,within_library_median
+6h_rep1,6H_DPI,DAM,Low,7,within_library_median
+6h_rep1,6H_DPI,Pro-inflammatory,High,113,within_library_median
+6h_rep1,6H_DPI,Pro-inflammatory,Low,83,within_library_median
+6h_rep2,6H_DPI,Homeostatic 1,Low,1,within_library_median
+6h_rep2,6H_DPI,Homeostatic 2,High,79,within_library_median
+6h_rep2,6H_DPI,Homeostatic 2,Low,76,within_library_median
+6h_rep2,6H_DPI,DAM,High,1,within_library_median
+6h_rep2,6H_DPI,DAM,Low,2,within_library_median
+6h_rep2,6H_DPI,Pro-inflammatory,High,3,within_library_median
+6h_rep2,6H_DPI,Pro-inflammatory,Low,4,within_library_median
+6h_rep3,6H_DPI,Homeostatic 1,High,3,within_library_median
+6h_rep3,6H_DPI,Homeostatic 1,Low,1,within_library_median
+6h_rep3,6H_DPI,Homeostatic 2,High,82,within_library_median
+6h_rep3,6H_DPI,Homeostatic 2,Low,100,within_library_median
+6h_rep3,6H_DPI,DAM,High,2,within_library_median
+6h_rep3,6H_DPI,DAM,Low,3,within_library_median
+6h_rep3,6H_DPI,Pro-inflammatory,High,45,within_library_median
+6h_rep3,6H_DPI,Pro-inflammatory,Low,28,within_library_median
+Ctrl_rep1,Control,Homeostatic 1,High,16,within_library_median
+Ctrl_rep1,Control,Homeostatic 1,Low,6,within_library_median
+Ctrl_rep1,Control,Homeostatic 2,High,169,within_library_median
+Ctrl_rep1,Control,Homeostatic 2,Low,178,within_library_median
+Ctrl_rep1,Control,DAM,Low,1,within_library_median
+Ctrl_rep2,Control,Homeostatic 1,High,2,within_library_median
+Ctrl_rep2,Control,Homeostatic 2,High,78,within_library_median
+Ctrl_rep2,Control,Homeostatic 2,Low,77,within_library_median
+Ctrl_rep2,Control,DAM,High,1,within_library_median
+Ctrl_rep2,Control,DAM,Low,3,within_library_median
+Ctrl_rep3,Control,Homeostatic 1,High,35,within_library_median
+Ctrl_rep3,Control,Homeostatic 1,Low,5,within_library_median
+Ctrl_rep3,Control,Homeostatic 2,High,36,within_library_median
+Ctrl_rep3,Control,Homeostatic 2,Low,65,within_library_median
+Ctrl_rep3,Control,DAM,High,1,within_library_median
+Ctrl_rep3,Control,DAM,Low,1,within_library_median
+D2_rep1,2D_DPI,Homeostatic 1,High,185,within_library_median
+D2_rep1,2D_DPI,Homeostatic 1,Low,138,within_library_median
+D2_rep1,2D_DPI,Homeostatic 2,High,29,within_library_median
+D2_rep1,2D_DPI,Homeostatic 2,Low,58,within_library_median
+D2_rep1,2D_DPI,DAM,High,5,within_library_median
+D2_rep1,2D_DPI,DAM,Low,22,within_library_median
+D2_rep2,2D_DPI,Homeostatic 1,High,193,within_library_median
+D2_rep2,2D_DPI,Homeostatic 1,Low,157,within_library_median
+D2_rep2,2D_DPI,Homeostatic 2,High,28,within_library_median
+D2_rep2,2D_DPI,Homeostatic 2,Low,52,within_library_median
+D2_rep2,2D_DPI,DAM,High,7,within_library_median
+D2_rep2,2D_DPI,DAM,Low,17,within_library_median
+D2_rep2,2D_DPI,Pro-inflammatory,Low,1,within_library_median
+D2_rep3,2D_DPI,Homeostatic 1,High,260,within_library_median
+D2_rep3,2D_DPI,Homeostatic 1,Low,192,within_library_median
+D2_rep3,2D_DPI,Homeostatic 2,High,19,within_library_median
+D2_rep3,2D_DPI,Homeostatic 2,Low,53,within_library_median
+D2_rep3,2D_DPI,DAM,High,44,within_library_median
+D2_rep3,2D_DPI,DAM,Low,76,within_library_median
+D2_rep3,2D_DPI,Pro-inflammatory,Low,2,within_library_median
+D4_rep1,4D_DPI,Homeostatic 1,High,248,within_library_median
+D4_rep1,4D_DPI,Homeostatic 1,Low,199,within_library_median
+D4_rep1,4D_DPI,Homeostatic 2,High,18,within_library_median
+D4_rep1,4D_DPI,Homeostatic 2,Low,41,within_library_median
+D4_rep1,4D_DPI,DAM,High,17,within_library_median
+D4_rep1,4D_DPI,DAM,Low,42,within_library_median
+D4_rep2,4D_DPI,Homeostatic 1,High,221,within_library_median
+D4_rep2,4D_DPI,Homeostatic 1,Low,159,within_library_median
+D4_rep2,4D_DPI,Homeostatic 2,High,61,within_library_median
+D4_rep2,4D_DPI,Homeostatic 2,Low,121,within_library_median
+D4_rep2,4D_DPI,DAM,High,5,within_library_median
+D4_rep2,4D_DPI,DAM,Low,6,within_library_median
+D4_rep3,4D_DPI,Homeostatic 1,High,226,within_library_median
+D4_rep3,4D_DPI,Homeostatic 1,Low,131,within_library_median
+D4_rep3,4D_DPI,Homeostatic 2,High,135,within_library_median
+D4_rep3,4D_DPI,Homeostatic 2,Low,158,within_library_median
+D4_rep3,4D_DPI,DAM,High,58,within_library_median
+D4_rep3,4D_DPI,DAM,Low,129,within_library_median
+D4_rep3,4D_DPI,Pro-inflammatory,Low,1,within_library_median
+6h_rep1,6H_DPI,Homeostatic 1,High,18,global_tertiles
+6h_rep1,6H_DPI,Homeostatic 1,Low,8,global_tertiles
+6h_rep1,6H_DPI,Homeostatic 1,Middle,14,global_tertiles
+6h_rep1,6H_DPI,Homeostatic 2,High,41,global_tertiles
+6h_rep1,6H_DPI,Homeostatic 2,Low,135,global_tertiles
+6h_rep1,6H_DPI,Homeostatic 2,Middle,82,global_tertiles
+6h_rep1,6H_DPI,DAM,Low,6,global_tertiles
+6h_rep1,6H_DPI,DAM,Middle,2,global_tertiles
+6h_rep1,6H_DPI,Pro-inflammatory,High,57,global_tertiles
+6h_rep1,6H_DPI,Pro-inflammatory,Low,73,global_tertiles
+6h_rep1,6H_DPI,Pro-inflammatory,Middle,66,global_tertiles
+6h_rep2,6H_DPI,Homeostatic 1,Low,1,global_tertiles
+6h_rep2,6H_DPI,Homeostatic 2,High,4,global_tertiles
+6h_rep2,6H_DPI,Homeostatic 2,Low,117,global_tertiles
+6h_rep2,6H_DPI,Homeostatic 2,Middle,34,global_tertiles
+6h_rep2,6H_DPI,DAM,High,1,global_tertiles
+6h_rep2,6H_DPI,DAM,Low,2,global_tertiles
+6h_rep2,6H_DPI,Pro-inflammatory,Low,5,global_tertiles
+6h_rep2,6H_DPI,Pro-inflammatory,Middle,2,global_tertiles
+6h_rep3,6H_DPI,Homeostatic 1,Low,1,global_tertiles
+6h_rep3,6H_DPI,Homeostatic 1,Middle,3,global_tertiles
+6h_rep3,6H_DPI,Homeostatic 2,High,36,global_tertiles
+6h_rep3,6H_DPI,Homeostatic 2,Low,90,global_tertiles
+6h_rep3,6H_DPI,Homeostatic 2,Middle,56,global_tertiles
+6h_rep3,6H_DPI,DAM,Low,2,global_tertiles
+6h_rep3,6H_DPI,DAM,Middle,3,global_tertiles
+6h_rep3,6H_DPI,Pro-inflammatory,High,29,global_tertiles
+6h_rep3,6H_DPI,Pro-inflammatory,Low,22,global_tertiles
+6h_rep3,6H_DPI,Pro-inflammatory,Middle,22,global_tertiles
+Ctrl_rep1,Control,Homeostatic 1,High,7,global_tertiles
+Ctrl_rep1,Control,Homeostatic 1,Low,7,global_tertiles
+Ctrl_rep1,Control,Homeostatic 1,Middle,8,global_tertiles
+Ctrl_rep1,Control,Homeostatic 2,High,50,global_tertiles
+Ctrl_rep1,Control,Homeostatic 2,Low,208,global_tertiles
+Ctrl_rep1,Control,Homeostatic 2,Middle,89,global_tertiles
+Ctrl_rep1,Control,DAM,Low,1,global_tertiles
+Ctrl_rep2,Control,Homeostatic 1,Low,2,global_tertiles
+Ctrl_rep2,Control,Homeostatic 2,High,5,global_tertiles
+Ctrl_rep2,Control,Homeostatic 2,Low,116,global_tertiles
+Ctrl_rep2,Control,Homeostatic 2,Middle,34,global_tertiles
+Ctrl_rep2,Control,DAM,Low,3,global_tertiles
+Ctrl_rep2,Control,DAM,Middle,1,global_tertiles
+Ctrl_rep3,Control,Homeostatic 1,High,18,global_tertiles
+Ctrl_rep3,Control,Homeostatic 1,Low,4,global_tertiles
+Ctrl_rep3,Control,Homeostatic 1,Middle,18,global_tertiles
+Ctrl_rep3,Control,Homeostatic 2,High,15,global_tertiles
+Ctrl_rep3,Control,Homeostatic 2,Low,57,global_tertiles
+Ctrl_rep3,Control,Homeostatic 2,Middle,29,global_tertiles
+Ctrl_rep3,Control,DAM,Low,1,global_tertiles
+Ctrl_rep3,Control,DAM,Middle,1,global_tertiles
+D2_rep1,2D_DPI,Homeostatic 1,High,136,global_tertiles
+D2_rep1,2D_DPI,Homeostatic 1,Low,81,global_tertiles
+D2_rep1,2D_DPI,Homeostatic 1,Middle,106,global_tertiles
+D2_rep1,2D_DPI,Homeostatic 2,High,15,global_tertiles
+D2_rep1,2D_DPI,Homeostatic 2,Low,39,global_tertiles
+D2_rep1,2D_DPI,Homeostatic 2,Middle,33,global_tertiles
+D2_rep1,2D_DPI,DAM,High,5,global_tertiles
+D2_rep1,2D_DPI,DAM,Low,14,global_tertiles
+D2_rep1,2D_DPI,DAM,Middle,8,global_tertiles
+D2_rep2,2D_DPI,Homeostatic 1,High,175,global_tertiles
+D2_rep2,2D_DPI,Homeostatic 1,Low,45,global_tertiles
+D2_rep2,2D_DPI,Homeostatic 1,Middle,130,global_tertiles
+D2_rep2,2D_DPI,Homeostatic 2,High,23,global_tertiles
+D2_rep2,2D_DPI,Homeostatic 2,Low,25,global_tertiles
+D2_rep2,2D_DPI,Homeostatic 2,Middle,32,global_tertiles
+D2_rep2,2D_DPI,DAM,High,5,global_tertiles
+D2_rep2,2D_DPI,DAM,Low,10,global_tertiles
+D2_rep2,2D_DPI,DAM,Middle,9,global_tertiles
+D2_rep2,2D_DPI,Pro-inflammatory,Middle,1,global_tertiles
+D2_rep3,2D_DPI,Homeostatic 1,High,234,global_tertiles
+D2_rep3,2D_DPI,Homeostatic 1,Low,51,global_tertiles
+D2_rep3,2D_DPI,Homeostatic 1,Middle,167,global_tertiles
+D2_rep3,2D_DPI,Homeostatic 2,High,17,global_tertiles
+D2_rep3,2D_DPI,Homeostatic 2,Low,37,global_tertiles
+D2_rep3,2D_DPI,Homeostatic 2,Middle,18,global_tertiles
+D2_rep3,2D_DPI,DAM,High,44,global_tertiles
+D2_rep3,2D_DPI,DAM,Low,48,global_tertiles
+D2_rep3,2D_DPI,DAM,Middle,28,global_tertiles
+D2_rep3,2D_DPI,Pro-inflammatory,Low,1,global_tertiles
+D2_rep3,2D_DPI,Pro-inflammatory,Middle,1,global_tertiles
+D4_rep1,4D_DPI,Homeostatic 1,High,233,global_tertiles
+D4_rep1,4D_DPI,Homeostatic 1,Low,47,global_tertiles
+D4_rep1,4D_DPI,Homeostatic 1,Middle,167,global_tertiles
+D4_rep1,4D_DPI,Homeostatic 2,High,16,global_tertiles
+D4_rep1,4D_DPI,Homeostatic 2,Low,23,global_tertiles
+D4_rep1,4D_DPI,Homeostatic 2,Middle,20,global_tertiles
+D4_rep1,4D_DPI,DAM,High,16,global_tertiles
+D4_rep1,4D_DPI,DAM,Low,26,global_tertiles
+D4_rep1,4D_DPI,DAM,Middle,17,global_tertiles
+D4_rep2,4D_DPI,Homeostatic 1,High,175,global_tertiles
+D4_rep2,4D_DPI,Homeostatic 1,Low,59,global_tertiles
+D4_rep2,4D_DPI,Homeostatic 1,Middle,146,global_tertiles
+D4_rep2,4D_DPI,Homeostatic 2,High,45,global_tertiles
+D4_rep2,4D_DPI,Homeostatic 2,Low,78,global_tertiles
+D4_rep2,4D_DPI,Homeostatic 2,Middle,59,global_tertiles
+D4_rep2,4D_DPI,DAM,High,4,global_tertiles
+D4_rep2,4D_DPI,DAM,Low,3,global_tertiles
+D4_rep2,4D_DPI,DAM,Middle,4,global_tertiles
+D4_rep3,4D_DPI,Homeostatic 1,High,160,global_tertiles
+D4_rep3,4D_DPI,Homeostatic 1,Low,67,global_tertiles
+D4_rep3,4D_DPI,Homeostatic 1,Middle,130,global_tertiles
+D4_rep3,4D_DPI,Homeostatic 2,High,89,global_tertiles
+D4_rep3,4D_DPI,Homeostatic 2,Low,103,global_tertiles
+D4_rep3,4D_DPI,Homeostatic 2,Middle,101,global_tertiles
+D4_rep3,4D_DPI,DAM,High,34,global_tertiles
+D4_rep3,4D_DPI,DAM,Low,89,global_tertiles
+D4_rep3,4D_DPI,DAM,Middle,64,global_tertiles
+D4_rep3,4D_DPI,Pro-inflammatory,Middle,1,global_tertiles
+6h_rep1,6H_DPI,Homeostatic 1,High,13,global_quartiles
+6h_rep1,6H_DPI,Homeostatic 1,Low,2,global_quartiles
+6h_rep1,6H_DPI,Homeostatic 1,Middle,25,global_quartiles
+6h_rep1,6H_DPI,Homeostatic 2,High,34,global_quartiles
+6h_rep1,6H_DPI,Homeostatic 2,Low,102,global_quartiles
+6h_rep1,6H_DPI,Homeostatic 2,Middle,122,global_quartiles
+6h_rep1,6H_DPI,DAM,Low,4,global_quartiles
+6h_rep1,6H_DPI,DAM,Middle,4,global_quartiles
+6h_rep1,6H_DPI,Pro-inflammatory,High,40,global_quartiles
+6h_rep1,6H_DPI,Pro-inflammatory,Low,55,global_quartiles
+6h_rep1,6H_DPI,Pro-inflammatory,Middle,101,global_quartiles
+6h_rep2,6H_DPI,Homeostatic 1,Low,1,global_quartiles
+6h_rep2,6H_DPI,Homeostatic 2,High,2,global_quartiles
+6h_rep2,6H_DPI,Homeostatic 2,Low,100,global_quartiles
+6h_rep2,6H_DPI,Homeostatic 2,Middle,53,global_quartiles
+6h_rep2,6H_DPI,DAM,High,1,global_quartiles
+6h_rep2,6H_DPI,DAM,Low,2,global_quartiles
+6h_rep2,6H_DPI,Pro-inflammatory,Low,5,global_quartiles
+6h_rep2,6H_DPI,Pro-inflammatory,Middle,2,global_quartiles
+6h_rep3,6H_DPI,Homeostatic 1,Low,1,global_quartiles
+6h_rep3,6H_DPI,Homeostatic 1,Middle,3,global_quartiles
+6h_rep3,6H_DPI,Homeostatic 2,High,25,global_quartiles
+6h_rep3,6H_DPI,Homeostatic 2,Low,76,global_quartiles
+6h_rep3,6H_DPI,Homeostatic 2,Middle,81,global_quartiles
+6h_rep3,6H_DPI,DAM,Low,2,global_quartiles
+6h_rep3,6H_DPI,DAM,Middle,3,global_quartiles
+6h_rep3,6H_DPI,Pro-inflammatory,High,23,global_quartiles
+6h_rep3,6H_DPI,Pro-inflammatory,Low,17,global_quartiles
+6h_rep3,6H_DPI,Pro-inflammatory,Middle,33,global_quartiles
+Ctrl_rep1,Control,Homeostatic 1,High,4,global_quartiles
+Ctrl_rep1,Control,Homeostatic 1,Low,6,global_quartiles
+Ctrl_rep1,Control,Homeostatic 1,Middle,12,global_quartiles
+Ctrl_rep1,Control,Homeostatic 2,High,33,global_quartiles
+Ctrl_rep1,Control,Homeostatic 2,Low,172,global_quartiles
+Ctrl_rep1,Control,Homeostatic 2,Middle,142,global_quartiles
+Ctrl_rep1,Control,DAM,Low,1,global_quartiles
+Ctrl_rep2,Control,Homeostatic 1,Low,1,global_quartiles
+Ctrl_rep2,Control,Homeostatic 1,Middle,1,global_quartiles
+Ctrl_rep2,Control,Homeostatic 2,High,5,global_quartiles
+Ctrl_rep2,Control,Homeostatic 2,Low,104,global_quartiles
+Ctrl_rep2,Control,Homeostatic 2,Middle,46,global_quartiles
+Ctrl_rep2,Control,DAM,Low,3,global_quartiles
+Ctrl_rep2,Control,DAM,Middle,1,global_quartiles
+Ctrl_rep3,Control,Homeostatic 1,High,11,global_quartiles
+Ctrl_rep3,Control,Homeostatic 1,Low,1,global_quartiles
+Ctrl_rep3,Control,Homeostatic 1,Middle,28,global_quartiles
+Ctrl_rep3,Control,Homeostatic 2,High,9,global_quartiles
+Ctrl_rep3,Control,Homeostatic 2,Low,47,global_quartiles
+Ctrl_rep3,Control,Homeostatic 2,Middle,45,global_quartiles
+Ctrl_rep3,Control,DAM,Low,1,global_quartiles
+Ctrl_rep3,Control,DAM,Middle,1,global_quartiles
+D2_rep1,2D_DPI,Homeostatic 1,High,103,global_quartiles
+D2_rep1,2D_DPI,Homeostatic 1,Low,52,global_quartiles
+D2_rep1,2D_DPI,Homeostatic 1,Middle,168,global_quartiles
+D2_rep1,2D_DPI,Homeostatic 2,High,12,global_quartiles
+D2_rep1,2D_DPI,Homeostatic 2,Low,28,global_quartiles
+D2_rep1,2D_DPI,Homeostatic 2,Middle,47,global_quartiles
+D2_rep1,2D_DPI,DAM,High,3,global_quartiles
+D2_rep1,2D_DPI,DAM,Low,11,global_quartiles
+D2_rep1,2D_DPI,DAM,Middle,13,global_quartiles
+D2_rep2,2D_DPI,Homeostatic 1,High,134,global_quartiles
+D2_rep2,2D_DPI,Homeostatic 1,Low,23,global_quartiles
+D2_rep2,2D_DPI,Homeostatic 1,Middle,193,global_quartiles
+D2_rep2,2D_DPI,Homeostatic 2,High,18,global_quartiles
+D2_rep2,2D_DPI,Homeostatic 2,Low,13,global_quartiles
+D2_rep2,2D_DPI,Homeostatic 2,Middle,49,global_quartiles
+D2_rep2,2D_DPI,DAM,High,1,global_quartiles
+D2_rep2,2D_DPI,DAM,Low,8,global_quartiles
+D2_rep2,2D_DPI,DAM,Middle,15,global_quartiles
+D2_rep2,2D_DPI,Pro-inflammatory,Middle,1,global_quartiles
+D2_rep3,2D_DPI,Homeostatic 1,High,184,global_quartiles
+D2_rep3,2D_DPI,Homeostatic 1,Low,28,global_quartiles
+D2_rep3,2D_DPI,Homeostatic 1,Middle,240,global_quartiles
+D2_rep3,2D_DPI,Homeostatic 2,High,12,global_quartiles
+D2_rep3,2D_DPI,Homeostatic 2,Low,31,global_quartiles
+D2_rep3,2D_DPI,Homeostatic 2,Middle,29,global_quartiles
+D2_rep3,2D_DPI,DAM,High,31,global_quartiles
+D2_rep3,2D_DPI,DAM,Low,37,global_quartiles
+D2_rep3,2D_DPI,DAM,Middle,52,global_quartiles
+D2_rep3,2D_DPI,Pro-inflammatory,Low,1,global_quartiles
+D2_rep3,2D_DPI,Pro-inflammatory,Middle,1,global_quartiles
+D4_rep1,4D_DPI,Homeostatic 1,High,182,global_quartiles
+D4_rep1,4D_DPI,Homeostatic 1,Low,28,global_quartiles
+D4_rep1,4D_DPI,Homeostatic 1,Middle,237,global_quartiles
+D4_rep1,4D_DPI,Homeostatic 2,High,13,global_quartiles
+D4_rep1,4D_DPI,Homeostatic 2,Low,19,global_quartiles
+D4_rep1,4D_DPI,Homeostatic 2,Middle,27,global_quartiles
+D4_rep1,4D_DPI,DAM,High,12,global_quartiles
+D4_rep1,4D_DPI,DAM,Low,15,global_quartiles
+D4_rep1,4D_DPI,DAM,Middle,32,global_quartiles
+D4_rep2,4D_DPI,Homeostatic 1,High,133,global_quartiles
+D4_rep2,4D_DPI,Homeostatic 1,Low,30,global_quartiles
+D4_rep2,4D_DPI,Homeostatic 1,Middle,217,global_quartiles
+D4_rep2,4D_DPI,Homeostatic 2,High,26,global_quartiles
+D4_rep2,4D_DPI,Homeostatic 2,Low,58,global_quartiles
+D4_rep2,4D_DPI,Homeostatic 2,Middle,98,global_quartiles
+D4_rep2,4D_DPI,DAM,High,1,global_quartiles
+D4_rep2,4D_DPI,DAM,Low,2,global_quartiles
+D4_rep2,4D_DPI,DAM,Middle,8,global_quartiles
+D4_rep3,4D_DPI,Homeostatic 1,High,128,global_quartiles
+D4_rep3,4D_DPI,Homeostatic 1,Low,42,global_quartiles
+D4_rep3,4D_DPI,Homeostatic 1,Middle,187,global_quartiles
+D4_rep3,4D_DPI,Homeostatic 2,High,62,global_quartiles
+D4_rep3,4D_DPI,Homeostatic 2,Low,81,global_quartiles
+D4_rep3,4D_DPI,Homeostatic 2,Middle,150,global_quartiles
+D4_rep3,4D_DPI,DAM,High,25,global_quartiles
+D4_rep3,4D_DPI,DAM,Low,70,global_quartiles
+D4_rep3,4D_DPI,DAM,Middle,92,global_quartiles
+D4_rep3,4D_DPI,Pro-inflammatory,Middle,1,global_quartiles

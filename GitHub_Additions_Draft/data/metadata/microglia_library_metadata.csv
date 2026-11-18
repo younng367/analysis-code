@@ -1,0 +1,13 @@
+sample,group,n_nuclei
+6h_rep1,6H_DPI,502
+6h_rep2,6H_DPI,166
+6h_rep3,6H_DPI,264
+Ctrl_rep1,Control,370
+Ctrl_rep2,Control,161
+Ctrl_rep3,Control,143
+D2_rep1,2D_DPI,437
+D2_rep2,2D_DPI,455
+D2_rep3,2D_DPI,646
+D4_rep1,4D_DPI,565
+D4_rep2,4D_DPI,573
+D4_rep3,4D_DPI,838

@@ -1,0 +1,73 @@
+{
+  "status": "Extracted from the submitted Methods and actual archived scripts; not a newly executed pipeline configuration",
+  "datasets": {
+    "bulk": "GSE79441",
+    "single_nucleus": "GSE277487",
+    "spatial": "GSE236171"
+  },
+  "bulk": {
+    "samples": 6,
+    "groups": {
+      "Control": 3,
+      "TBI": 3
+    },
+    "minimum_total_count": 9,
+    "design": "~group",
+    "contrast": [
+      "group",
+      "TBI",
+      "Control"
+    ],
+    "selection": "abs(log2FoldChange)>1 and padj<0.05",
+    "duplicate_symbol_rule": "highest mean count; original row order breaks ties"
+  },
+  "network": {
+    "input_candidates": 16,
+    "baseline_confidence": 0.4,
+    "sensitivity_confidence": 0.7,
+    "algorithms": [
+      "DMNC",
+      "MCC",
+      "MNC"
+    ],
+    "primary_rule": "exactly first 3 rows per archived sorted export; not tied rank <=3",
+    "primary_intersection": [
+      "Lcp1",
+      "Coro1a"
+    ],
+    "isolates": "NA in original archive table; zero scores in separate recomputed fixed-node sensitivity analysis"
+  },
+  "pseudobulk": {
+    "unit": "library",
+    "libraries": 12,
+    "normalization": "TMM",
+    "model": "edgeR quasi-likelihood",
+    "design": "~0+group",
+    "groups": [
+      "Control",
+      "6H_DPI",
+      "2D_DPI",
+      "4D_DPI"
+    ]
+  },
+  "immune_correlations": {
+    "signatures": 28,
+    "targets": [
+      "Lcp1",
+      "Coro1a"
+    ],
+    "comparisons": 56,
+    "method": "Spearman",
+    "two_sided_p": "all 720 sample-label permutations",
+    "adjustment": "BH across 56 comparisons; retain nominal P as well"
+  },
+  "animals": {
+    "per_group_per_assay": 5,
+    "primary_test": "two-sided unpaired Welch t-test",
+    "sensitivity": "two-sided exact Mann-Whitney",
+    "difference": "TBI minus Sham",
+    "CI": 0.95,
+    "IHC": "mean of three field IOD/Area values per animal, multiplied by 100",
+    "scope": "source_row is a within-assay index; do not infer cross-membrane identity from it"
+  }
+}

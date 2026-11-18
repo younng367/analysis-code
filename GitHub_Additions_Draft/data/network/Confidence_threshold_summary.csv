@@ -1,0 +1,3 @@
+"confidence_threshold","candidate_nodes","edge_supported_nodes","isolated_candidates","edges","observed_additional_nodes","DMNC_distinct_scores","Lcp1_degree","Coro1a_degree","Top3_intersection"
+0.4,16,10,6,14,0,4,4,4,"Coro1a;Lcp1 (archived fixed-three rule)"
+0.7,16,5,11,3,0,1,0,1,"Not uniquely defined: all DMNC scores are zero"

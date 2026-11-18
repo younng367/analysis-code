@@ -1,0 +1,5 @@
+"top_n","rule","DMNC","MCC","MNC","intersection","n_intersection","Lcp1","Coro1a"
+2,"Exactly N entries; score descending; archived order for ties","Lcp1;Laptm5","Coro1a;Nckap1l","Coro1a;Nckap1l","",0,FALSE,FALSE
+3,"Exactly N entries; score descending; archived order for ties","Lcp1;Laptm5;Coro1a","Coro1a;Nckap1l;Lcp1","Coro1a;Nckap1l;Lcp1","Coro1a;Lcp1",2,TRUE,TRUE
+4,"Exactly N entries; score descending; archived order for ties","Lcp1;Laptm5;Coro1a;Nckap1l","Coro1a;Nckap1l;Lcp1;Laptm5","Coro1a;Nckap1l;Lcp1;Laptm5","Coro1a;Laptm5;Lcp1;Nckap1l",4,TRUE,TRUE
+5,"Exactly N entries; score descending; archived order for ties","Lcp1;Laptm5;Coro1a;Nckap1l;Serpine2","Coro1a;Nckap1l;Lcp1;Laptm5;Tgfb1","Coro1a;Nckap1l;Lcp1;Laptm5;Serpine2","Coro1a;Laptm5;Lcp1;Nckap1l",4,TRUE,TRUE

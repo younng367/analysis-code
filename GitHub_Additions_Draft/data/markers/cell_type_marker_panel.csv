@@ -1,0 +1,19 @@
+﻿Marker genes,Cell type or state
+"Tmem119, Cx3cr1, P2ry12, P2ry13, Gpr34, Olfml3, Selplg, Sparc, Fcrls, Siglech, Slc2a5, Mafb, Pmepa1, Cd14",Microglia
+"Lpl, Cst7",Disease-associated microglia
+"Itga4, Tgfbi, Ifitm2, Ifitm3, Tagln2, F13a1, Kynu, S100a11, S100a6",Macrophages
+"Cd163, Mrc1, Lyve1, Siglec1",Border-associated macrophages
+"Ly6c2, Ccr2, Spn",Monocytes
+"Cd24a, Itgax, Bst2, Cd209a, Xcr1, Ccr7, Ccr9, Flt3, Itgae, Itgam, H2-Oa, Tnni2, Kctd14, Amica1, Kmo, Hepacam2",Dendritic cells
+"Cd3d, Cd3e, Cd3g, Lat, Bcl11b",T cells
+"Cd19, Ms4a1, Sdc1, Pax5",B cells
+S100a9,Neutrophils
+"Rbfox3, Slc17a7, Gabra1, Cux1, Pou3f2, Bcl11b, Foxp2",Neurons
+"Pdgfra, C1ql1",Oligodendrocyte precursor cells
+"Neu4, Brca1",Committed oligodendrocyte precursors
+"Opalin, Ninj2",Mature oligodendrocytes
+"Sox9, Gfap, Aldh1l1, Atp1b2, Vim, Slc1a3, Aldoc",Astrocytes
+"Pecam1, Pdgfrb, Higd1b, Ndufa4l2, Rgs5, Kcnj8, Flt1",Pericytes
+"Acta2, Tagln, Myh11, Mustn1, Map3k7cl",Vascular smooth-muscle cells
+"Mgp, Slc47a1, Thbd, Col1a1, Col1a2",Vascular and leptomeningeal cells
+"Ly6c1, Cldn5, Ly6a, Pltp, Pglyrp1, Scgb3a1",Vascular endothelial cells

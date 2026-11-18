@@ -1,0 +1,6 @@
+"orientation","root_nucleus","root_state","root_timepoint","spearman_with_original","maximum_distance","n_nuclei","n_libraries"
+"original_stored_root","D4_rep1_ACTATTCGTAGACAGC-1","DAM","4D_DPI",1,4.02827212788411,5120,12
+"Control_Homeostatic1","Ctrl_rep3_AACCCAAAGAATAACC-1","Homeostatic 1","Control",0.999680779027682,3.47937250557429,5120,12
+"distal_Homeostatic_2","6h_rep2_TATCAGGGTAGTCGTT-1","Homeostatic 2","6H_DPI",-0.232506174284455,3.44356967020585,5120,12
+"distal_DAM","D2_rep3_GAAGCCCAGCATACTC-1","DAM","2D_DPI",-0.232822641075044,3.6410600374403,5120,12
+"distal_Pro-inflammatory","6h_rep1_TAAGCCATCCTACCGT-1","Pro-inflammatory","6H_DPI",-0.232846500934467,4.02827212788411,5120,12

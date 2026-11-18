@@ -1,0 +1,61 @@
+﻿assay,gene,group,source_row,value,unit
+qPCR,CORO1A,Sham,1,0.935261144,Relative transcript abundance
+qPCR,CORO1A,Sham,2,1.00818835,Relative transcript abundance
+qPCR,CORO1A,Sham,3,1.038241174,Relative transcript abundance
+qPCR,CORO1A,Sham,4,1.00891438,Relative transcript abundance
+qPCR,CORO1A,Sham,5,1.009394952,Relative transcript abundance
+qPCR,CORO1A,TBI,1,2.775044165,Relative transcript abundance
+qPCR,CORO1A,TBI,2,1.661304165,Relative transcript abundance
+qPCR,CORO1A,TBI,3,1.375520661,Relative transcript abundance
+qPCR,CORO1A,TBI,4,1.593591826,Relative transcript abundance
+qPCR,CORO1A,TBI,5,1.53564924,Relative transcript abundance
+qPCR,LCP1,Sham,1,0.91488435,Relative transcript abundance
+qPCR,LCP1,Sham,2,0.989013655,Relative transcript abundance
+qPCR,LCP1,Sham,3,1.013761288,Relative transcript abundance
+qPCR,LCP1,Sham,4,1.043701795,Relative transcript abundance
+qPCR,LCP1,Sham,5,1.038638912,Relative transcript abundance
+qPCR,LCP1,TBI,1,2.276916138,Relative transcript abundance
+qPCR,LCP1,TBI,2,1.581208652,Relative transcript abundance
+qPCR,LCP1,TBI,3,1.597956512,Relative transcript abundance
+qPCR,LCP1,TBI,4,1.724034644,Relative transcript abundance
+qPCR,LCP1,TBI,5,1.513641555,Relative transcript abundance
+WB,CORO1A,Sham,1,0.478610842,Target/beta-actin ratio
+WB,CORO1A,Sham,2,0.496666234,Target/beta-actin ratio
+WB,CORO1A,Sham,3,0.42735779,Target/beta-actin ratio
+WB,CORO1A,Sham,4,0.480721157,Target/beta-actin ratio
+WB,CORO1A,Sham,5,0.471113897,Target/beta-actin ratio
+WB,CORO1A,TBI,1,0.911142183,Target/beta-actin ratio
+WB,CORO1A,TBI,2,0.896549788,Target/beta-actin ratio
+WB,CORO1A,TBI,3,0.943716251,Target/beta-actin ratio
+WB,CORO1A,TBI,4,1.000855335,Target/beta-actin ratio
+WB,CORO1A,TBI,5,0.80684393,Target/beta-actin ratio
+WB,LCP1,Sham,1,0.528079775,Target/beta-actin ratio
+WB,LCP1,Sham,2,0.501201485,Target/beta-actin ratio
+WB,LCP1,Sham,3,0.614220089,Target/beta-actin ratio
+WB,LCP1,Sham,4,0.549208811,Target/beta-actin ratio
+WB,LCP1,Sham,5,0.50649649,Target/beta-actin ratio
+WB,LCP1,TBI,1,0.705356198,Target/beta-actin ratio
+WB,LCP1,TBI,2,0.802607991,Target/beta-actin ratio
+WB,LCP1,TBI,3,0.913795766,Target/beta-actin ratio
+WB,LCP1,TBI,4,0.768214349,Target/beta-actin ratio
+WB,LCP1,TBI,5,0.888541824,Target/beta-actin ratio
+IHC,CORO1A,Sham,1,19.5591295901952,Mean optical density x100
+IHC,CORO1A,Sham,2,19.0508374379078,Mean optical density x100
+IHC,CORO1A,Sham,3,18.0584713367302,Mean optical density x100
+IHC,CORO1A,Sham,4,15.295473046288,Mean optical density x100
+IHC,CORO1A,Sham,5,17.3821645719968,Mean optical density x100
+IHC,CORO1A,TBI,1,22.1872388248402,Mean optical density x100
+IHC,CORO1A,TBI,2,21.3990267010662,Mean optical density x100
+IHC,CORO1A,TBI,3,21.6522911992826,Mean optical density x100
+IHC,CORO1A,TBI,4,21.2074037815507,Mean optical density x100
+IHC,CORO1A,TBI,5,18.6314977941877,Mean optical density x100
+IHC,LCP1,Sham,1,21.157012841457007,Mean optical density x100
+IHC,LCP1,Sham,2,19.803088391731716,Mean optical density x100
+IHC,LCP1,Sham,3,19.281159595633056,Mean optical density x100
+IHC,LCP1,Sham,4,20.01379293340573,Mean optical density x100
+IHC,LCP1,Sham,5,20.7962526947109,Mean optical density x100
+IHC,LCP1,TBI,1,21.798587731930002,Mean optical density x100
+IHC,LCP1,TBI,2,22.371704802268624,Mean optical density x100
+IHC,LCP1,TBI,3,23.27661880160915,Mean optical density x100
+IHC,LCP1,TBI,4,24.46518941381824,Mean optical density x100
+IHC,LCP1,TBI,5,25.4862813821691,Mean optical density x100

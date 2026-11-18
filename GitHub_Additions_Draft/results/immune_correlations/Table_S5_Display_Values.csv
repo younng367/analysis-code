@@ -1,0 +1,57 @@
+﻿Gene,Immune signature,Spearman rho,Nominal P,BH-adjusted P,n
+Lcp1,Activated B cell,0.600000,0.241667,0.330081,6
+Lcp1,Activated CD4 T cell,0.828571,0.058333,0.233333,6
+Lcp1,Activated CD8 T cell,-0.542857,0.297222,0.387080,6
+Lcp1,Activated dendritic cell,0.828571,0.058333,0.233333,6
+Lcp1,CD56bright natural killer cell,0.028571,1.000000,1.000000,6
+Lcp1,CD56dim natural killer cell,-0.028571,1.000000,1.000000,6
+Lcp1,Central memory CD4 T cell,0.771429,0.102778,0.239815,6
+Lcp1,Central memory CD8 T cell,0.828571,0.058333,0.233333,6
+Lcp1,Effector memory CD4 T cell,0.657143,0.175000,0.296970,6
+Lcp1,Effector memory CD8 T cell,0.942857,0.016667,0.186667,6
+Lcp1,Eosinophil,-0.371429,0.497222,0.605314,6
+Lcp1,Gamma delta T cell,0.771429,0.102778,0.239815,6
+Lcp1,Immature B cell,0.942857,0.016667,0.186667,6
+Lcp1,Immature dendritic cell,0.771429,0.102778,0.239815,6
+Lcp1,Macrophage,1.000000,0.002778,0.155556,6
+Lcp1,Mast cell,0.314286,0.563889,0.657870,6
+Lcp1,MDSC,0.828571,0.058333,0.233333,6
+Lcp1,Memory B cell,0.142857,0.802778,0.848218,6
+Lcp1,Monocyte,0.828571,0.058333,0.233333,6
+Lcp1,Natural killer cell,0.771429,0.102778,0.239815,6
+Lcp1,Natural killer T cell,0.828571,0.058333,0.233333,6
+Lcp1,Neutrophil,0.942857,0.016667,0.186667,6
+Lcp1,Plasmacytoid dendritic cell,0.771429,0.102778,0.239815,6
+Lcp1,Regulatory T cell,0.942857,0.016667,0.186667,6
+Lcp1,T follicular helper cell,0.771429,0.102778,0.239815,6
+Lcp1,Type 1 T helper cell,0.828571,0.058333,0.233333,6
+Lcp1,Type 17 T helper cell,-0.200000,0.713889,0.799556,6
+Lcp1,Type 2 T helper cell,0.371429,0.497222,0.605314,6
+Coro1a,Activated B cell,-0.600000,0.241667,0.330081,6
+Coro1a,Activated CD4 T cell,-0.657143,0.175000,0.296970,6
+Coro1a,Activated CD8 T cell,0.085714,0.919444,0.953498,6
+Coro1a,Activated dendritic cell,-0.657143,0.175000,0.296970,6
+Coro1a,CD56bright natural killer cell,0.142857,0.802778,0.848218,6
+Coro1a,CD56dim natural killer cell,0.314286,0.563889,0.657870,6
+Coro1a,Central memory CD4 T cell,-0.600000,0.241667,0.330081,6
+Coro1a,Central memory CD8 T cell,-0.657143,0.175000,0.296970,6
+Coro1a,Effector memory CD4 T cell,-0.828571,0.058333,0.233333,6
+Coro1a,Effector memory CD8 T cell,-0.771429,0.102778,0.239815,6
+Coro1a,Eosinophil,0.600000,0.241667,0.330081,6
+Coro1a,Gamma delta T cell,-0.771429,0.102778,0.239815,6
+Coro1a,Immature B cell,-0.657143,0.175000,0.296970,6
+Coro1a,Immature dendritic cell,-0.600000,0.241667,0.330081,6
+Coro1a,Macrophage,-0.828571,0.058333,0.233333,6
+Coro1a,Mast cell,0.142857,0.802778,0.848218,6
+Coro1a,MDSC,-0.657143,0.175000,0.296970,6
+Coro1a,Memory B cell,0.257143,0.658333,0.752381,6
+Coro1a,Monocyte,-0.657143,0.175000,0.296970,6
+Coro1a,Natural killer cell,-0.600000,0.241667,0.330081,6
+Coro1a,Natural killer T cell,-0.657143,0.175000,0.296970,6
+Coro1a,Neutrophil,-0.771429,0.102778,0.239815,6
+Coro1a,Plasmacytoid dendritic cell,-0.600000,0.241667,0.330081,6
+Coro1a,Regulatory T cell,-0.771429,0.102778,0.239815,6
+Coro1a,T follicular helper cell,-0.600000,0.241667,0.330081,6
+Coro1a,Type 1 T helper cell,-0.657143,0.175000,0.296970,6
+Coro1a,Type 17 T helper cell,0.428571,0.419444,0.533838,6
+Coro1a,Type 2 T helper cell,-0.542857,0.297222,0.387080,6
